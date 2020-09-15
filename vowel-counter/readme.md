@@ -1,1 +1,1 @@
-
+program allows user to input any amount of text then returns either the vowel count of the string in an alert, or an alert that notifies the user there are no vowels found in the current string entered.
